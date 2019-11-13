@@ -1,0 +1,15 @@
+.winner 
+{
+	color: green;
+}
+
+#score_form 
+{
+	display: inline;
+	vertical-align: top;
+}
+
+#score_form input[type="number"] 
+{
+	vertical-align: top;
+}

@@ -1,0 +1,1 @@
+A simple webpage to practice DOM Manipulation. Allows the user(s) to keep track of score between two players. Once the max wins is reached, the winner has their score turned green. Upon resetting, the score will zero out. Gives user(s) the option to increase or decrease amount of wins required to win the series.
